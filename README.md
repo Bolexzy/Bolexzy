@@ -10,7 +10,7 @@
 - 📫 How to reach me ...
 [`Linkeldn`](https://www.linkedin.com/in/boluwatife-oyewumi-2a0b711b5/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHRZiSDGtQGa%2BqdYu3PvtQg%3D%3D)
 [`Twitter`](https://twitter.com/Lex_zyy)
-[`Email`](boluoyewumi79@gmail.com)
+[`Email`](mailto:boluoyewumi79@gmail.com)
 
 
 
