@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Emmanuel
 
-🌱 I’m currently learning Software Engineering at ALX, doing the hard work...
+🌱 I am a Software Engineering Student at ALX, doing the hard work...
 
 * 🔭 I’m currently working on my coding skills.
 * 👯 I’m open to collaborate on Software Engineering projects.
