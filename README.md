@@ -1,4 +1,4 @@
-Hi 👋 My name is Boluwatife Oyewumi
+Hi 👋 I'm Boluwatife Emmanuel
 ===================================
 
 Writer | SE Trainee @alx-holberton school
@@ -6,10 +6,11 @@ Writer | SE Trainee @alx-holberton school
 
 Doing the hard work 🦾
 
-*   🌍  I'm based in Nigeria
+*   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [bolexzyy@gmail.com](mailto:bolexzyy@gmail.com)
-*   🧠  I'm learning Python
-*   🤝  I'm open to collaborating on Software development projects### Skills 
+*   🧠  I'm learning React, Next/Js & Tailwind, Node JS, Python
+*   📝 I write technical articles on https://bolexzy.hashnode.dev/
+*   🤝  I'm open to collaborating on Open Source Software development projects### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
