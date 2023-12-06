@@ -1,4 +1,4 @@
-[MasterHead](https://twitter.com/Bolexzyy__/header_photo)
+![MasterHead](https://pbs.twimg.com/profile_banners/1327194091763982336/1701557505/1500x500)
 
 Hi 👋 I'm Boluwatife Emmanuel
 ===================================
@@ -27,13 +27,7 @@ Doing the hard work 🦾
   <a href="https://www.twitter.com/Bolexzyy__" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Bolexzy"><img src="https://github-readme-stats.vercel.app/api?username=Bolexzy&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bolexzy's GitHub stats" /></a>
-
-### Languages and Tools
+### Languages and Stats
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -46,7 +40,9 @@ Doing the hard work 🦾
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bolexzy&show_icons=true&locale=en&layout=compact" alt="Bolexzy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bolexzy&" alt="Bolexzy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bolexzy&show_icons=true&locale=en" alt="Bolexzy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bolexzy&" alt="Bolexzy" /></p>
 
 ### Support Me
 
