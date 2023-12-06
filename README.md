@@ -14,7 +14,7 @@ Doing the hard work 🦾
 *   ✉️  You can contact me at [bolexzyy@gmail.com](mailto:bolexzyy@gmail.com)
 *   🧠  I'm learning React, Next/Js & Tailwind, Node JS, Python
 *   📝 I write technical articles on https://bolexzy.hashnode.dev/
-*   🤝  I'm open to collaborating on Open Source Software development projects### Skills
+*   🤝  I'm open to collaborating on Open Source Software development projects.
 
  
 
